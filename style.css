@@ -524,7 +524,7 @@ justify-content: space-around;
 #page3-element .boxs video{
     width: 100%;
     height: 100%;
-    object-fit: contain;
+    object-fit: cover;
 
 }
 
@@ -532,7 +532,7 @@ justify-content: space-around;
     position: absolute;
     height: 100%;
     width: 100%;
-    object-fit: contain;
+    object-fit: cover;
     transition: all linear 0.6s;
 }
 #page3-element .boxs:hover img{
